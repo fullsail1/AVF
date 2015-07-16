@@ -1,0 +1,28 @@
+dependencies: \
+  /Users/osahon/Documents/Titanium_Studio_Workspace/AVF_Geo/build/iphone/Classes/TiFilesystemFileStreamProxy.m \
+  /Users/osahon/Documents/Titanium_Studio_Workspace/AVF_Geo/build/iphone/Classes/TiStreamProxy.h \
+  /Users/osahon/Documents/Titanium_Studio_Workspace/AVF_Geo/build/iphone/Classes/TiProxy.h \
+  /Users/osahon/Documents/Titanium_Studio_Workspace/AVF_Geo/build/iphone/Classes/TiBase.h \
+  /Users/osahon/Documents/Titanium_Studio_Workspace/AVF_Geo/build/iphone/Classes/TiThreading.h \
+  /Users/osahon/Documents/Titanium_Studio_Workspace/AVF_Geo/build/iphone/Classes/TiPublicAPI.h \
+  /Users/osahon/Documents/Titanium_Studio_Workspace/AVF_Geo/build/iphone/Classes/TiEvaluator.h \
+  /Users/osahon/Documents/Titanium_Studio_Workspace/AVF_Geo/build/iphone/Classes/KrollContext.h \
+  headers/JavaScriptCore/TiCore.h headers/JavaScriptCore/Ti.h \
+  headers/JavaScriptCore/TiBase.h headers/JavaScriptCore/TiContextRef.h \
+  headers/JavaScriptCore/TiObjectRef.h \
+  headers/JavaScriptCore/TiValueRef.h \
+  headers/JavaScriptCore/WebKitAvailability.h \
+  headers/JavaScriptCore/TiStringRef.h \
+  headers/JavaScriptCore/TiStringRefCF.h \
+  /Users/osahon/Documents/Titanium_Studio_Workspace/AVF_Geo/build/iphone/Classes/KrollCallback.h \
+  /Users/osahon/Documents/Titanium_Studio_Workspace/AVF_Geo/build/iphone/Classes/KrollObject.h \
+  /Users/osahon/Documents/Titanium_Studio_Workspace/AVF_Geo/build/iphone/Classes/TiBindingRunLoop.h \
+  /Users/osahon/Documents/Titanium_Studio_Workspace/AVF_Geo/build/iphone/Classes/Tibuffer.h \
+  /Users/osahon/Documents/Titanium_Studio_Workspace/AVF_Geo/build/iphone/Classes/TiBlob.h \
+  /Users/osahon/Documents/Titanium_Studio_Workspace/AVF_Geo/build/iphone/Classes/TiFilesystemFileStreamProxy.h \
+  /Users/osahon/Documents/Titanium_Studio_Workspace/AVF_Geo/build/iphone/Classes/TiFilesystemFileProxy.h \
+  /Users/osahon/Documents/Titanium_Studio_Workspace/AVF_Geo/build/iphone/Classes/TiFile.h \
+  /Users/osahon/Documents/Titanium_Studio_Workspace/AVF_Geo/build/iphone/Classes/TiUtils.h \
+  /Users/osahon/Documents/Titanium_Studio_Workspace/AVF_Geo/build/iphone/Classes/TiDimension.h \
+  /Users/osahon/Documents/Titanium_Studio_Workspace/AVF_Geo/build/iphone/Classes/TiColor.h \
+  /Users/osahon/Documents/Titanium_Studio_Workspace/AVF_Geo/build/iphone/Classes/WebFont.h
